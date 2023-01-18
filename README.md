@@ -1,3 +1,3 @@
-# Simon
-**Description:** This is a memory game. The score is calculated by the number of rounds which you remember. Start by pressing any button. The game will then give you random selections from the four buttons and you have to remember the new selection plus all past selections in order to progress.
+# Memory
+**Description:** This is a game where cards flip over revealing a unique color, and then flip back over. there are two colors that match and you are tasked with matching them. Once the colors are matched then the cards are removed. The fewer guesses over the number of cards in the grid determins your score.
 
